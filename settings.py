@@ -1,0 +1,2 @@
+MAP_WIDTH = 640
+MAP_HEIGHT = 480    
